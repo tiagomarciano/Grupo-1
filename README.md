@@ -8,7 +8,7 @@
 
 Pull request e Code review
 
-## Dupla
+## Grupo
 
 * Jordan Vinicius Guimarães 
 * Tiago José Marciano
