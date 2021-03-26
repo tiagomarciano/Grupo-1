@@ -20,15 +20,19 @@ def mantissa(numString, numerator, denominator):
     except:
         return False
 
-number = '123.456'
-c = [0]
-n = [0]
-d = [0]
+def main():
+    number = '123.456'
+    c = [0]
+    n = [0]
+    d = [0]
 
-if (characteristic(number, c) and mantissa(number, n, d)):
-    print(number)
-    print(c[0])
-    print(n[0])
-    print(d[0])
-else:
-    print('O número informado é inválido!')
+    if (characteristic(number, c) and mantissa(number, n, d)):
+        print(number)
+        print(c[0])
+        print(n[0])
+        print(d[0])
+    else:
+        print('O número informado é inválido!')
+
+if __name__ == "__main__":
+    main()
