@@ -1,4 +1,4 @@
-# SL-Mestrado_PRcodeReview
+# Grupo 1 - PRcodeReview
 
 **Professor**: Dr. Igor Steinmacher
 
