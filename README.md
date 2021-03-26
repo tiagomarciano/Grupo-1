@@ -1,4 +1,4 @@
-# SL-Mestrado_PRcodeReview (Desenvolvimento de Software Livre)
+# SL-Mestrado_PRcodeReview
 
 **Professor**: Dr. Igor Steinmacher
 
