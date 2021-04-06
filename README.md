@@ -1,22 +1,45 @@
-# Grupo 1 - PRcodeReview
+# Py.Mantissa 
 
-**Professor**: Dr. Igor Steinmacher
+[![Diga obrigado!](https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg)](https://github.com/UTFPR-SL/Grupo-1)
+![PyMantissa](https://img.shields.io/pypi/v/1?label=PyMantissa)
 
-**Email**: igorfs@utfpr.edu.br
+> A App built in python to calculate the characteristic and mantissa given a real or 
+> integer and positive or negative number.
 
-## Atividade
+## To Run Py.Mantissa
 
-Pull request e Code review
+```bash
+# Run the Py.Mantissa
+python PyMantissa.py
+```
 
-## Informações
+## Index
 
-Exercício: Conversion Functions (F1)
+- [Contributing](CONTRIBUTING.md)
+- [Code of Conduct](CODE_OF_CONDUCT.md)
 
-Linguagem: `Python 3.8.5`
+## Contributing
 
-IDE: `PyCharm 2020.3`
+---
 
-## Grupo
+If you have suggestions for how Py.Mantissa could be improved, or want to report a bug, open an issue!
+We'd love all and any contributions.
 
-* Jordan Vinicius Guimarães 
-* Tiago José Marciano
+For more, check out the [Contributing Guide](CONTRIBUTING.md).
+
+## Supporting the Development of Py.Mantissa
+
+Py.Mantissa's development depends on your contributions.
+
+If you depend on Py.Mantissa, remember to support the Py.Mantissa Software Foundation: https://www.pymantissa.com/fundraising/
+
+## Group
+
+---
+
+Group name: Grupo 1
+
+Members:
+
+- [Jordan Vinicius Guimarães](https://www.linkedin.com/in/jordan-vinicius-guimar%C3%A3es-5b0010152/)
+- [Tiago José Marciano](https://www.linkedin.com/in/tiagomarciano/)
